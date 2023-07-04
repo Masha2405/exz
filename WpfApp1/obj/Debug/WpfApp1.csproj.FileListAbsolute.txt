@@ -1,0 +1,15 @@
+F:\Arhipova\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\Arhipova\WpfApp1\bin\Debug\WpfApp1.exe
+F:\Arhipova\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\Arhipova\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+F:\Arhipova\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\Arhipova\WpfApp1\obj\Debug\App.g.cs
+F:\Arhipova\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\Arhipova\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\Arhipova\WpfApp1\obj\Debug\MainWindow.baml
+F:\Arhipova\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\Arhipova\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\Arhipova\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\Arhipova\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\Arhipova\WpfApp1\obj\Debug\WpfApp1.exe
+F:\Arhipova\WpfApp1\obj\Debug\WpfApp1.pdb
